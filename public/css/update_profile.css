@@ -1,0 +1,50 @@
+body {
+    background: #687A4B
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #6bc868
+  }
+  
+  .profile-button {
+    background: #C77951;
+    box-shadow: none;
+    border: none
+  }
+  
+  .profile-button:hover {
+    background: #687A4B;
+  }
+  
+  .profile-button:focus {
+    background: #687A4B;
+    box-shadow: none
+  }
+  
+  .profile-button:active {
+    background: #687A4B;
+    box-shadow: none
+  }
+  
+  .back:hover {
+    color: #687A4B;
+    cursor: pointer
+  }
+  
+  .labels{
+    color: #4b5738 ;
+  }
+  
+  #upload_img{
+    text-align: center;
+    border-bottom: 1px solid silver;
+    border-top: 1px solid silver;
+    display: table-cell; 
+    vertical-align:middle;
+  }
+  
+  #info_box{
+    box-shadow: rgba(0, 0, 0, 0.637) 0px 22px 70px 4px;
+  }
+  
